@@ -14,6 +14,16 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "darkmode",
+    "dark mode",
+    "php",
+    "js",
+    "ts",
+    "react"
+  ],
   "contributes": {
     "themes": [
       {
