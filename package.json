@@ -1,0 +1,22 @@
+{
+  "name": "no-delay-theme",
+  "displayName": "No-Delay",
+  "description": "A clean, compreensive Dark Theme, with shades of Red & Blue and function/class highlights.",
+  "author": "DelaiDan",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "No-Delay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/No-Delay-color-theme.json"
+      }
+    ]
+  }
+}
