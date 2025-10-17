@@ -4,6 +4,10 @@
   "description": "A clean, compreensive Dark Theme, with shades of Red & Blue and function/class highlights.",
   "author": "DelaiDan",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DelaiDan/no-delay-theme"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
