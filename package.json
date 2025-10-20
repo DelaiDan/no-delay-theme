@@ -3,7 +3,8 @@
   "displayName": "No-Delay",
   "description": "A clean, compreensive Dark Theme, with shades of Red & Blue and function/class highlights.",
   "publisher": "DelaiDan",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/DelaiDan/no-delay-theme"
