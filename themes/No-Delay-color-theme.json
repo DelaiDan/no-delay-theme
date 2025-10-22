@@ -230,7 +230,7 @@
 			"scope": [
 				"entity.name",
 				"support.type",
-				"support.class",
+				"support.class.component",
 				"support.other.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
@@ -239,6 +239,15 @@
 			],
 			"settings": {
 				"foreground": "#00DDFF",
+			}
+		},
+		{
+			"name": "Class, Support PHP",
+			"scope": [
+				"support.class",
+			],
+			"settings": {
+				"foreground": "#e93d62",
 			}
 		},
 		{
